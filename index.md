@@ -15,7 +15,7 @@ Here is [OpenBoxTest](/OpenBoxTest)
 
 [Wolfie's Puzzle Generator](http://www.wolfiesden.com/Laser/PuzzleCreator.asp)
 
-[Generating SVG Jigsaw Puzzles | dev.inventables](http://dev.inventables.com/2016/02/26/generating-svg-jigsaw-puzzles.html)
+[Generating SVG Jigsaw Puzzles](http://dev.inventables.com/2016/02/26/generating-svg-jigsaw-puzzles.html)
 
 [Jigsaw puzzle](https://cdn.rawgit.com/Draradech/35d36347312ca6d0887aa7d55f366e30/raw/b04cf9cd63a59571910cb226226ce2b3ed46af46/jigsaw.html)
 
