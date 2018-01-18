@@ -1,4 +1,15 @@
+---
+title: This is the title for this page on my site
+---
 # This is my site
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 Here is [OpenBoxTest](/OpenBoxTest)
 
