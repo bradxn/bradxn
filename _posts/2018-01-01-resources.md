@@ -1,6 +1,9 @@
 ---
+layout: post
 title: Resources
 ---
+
+Here are some links to various websites...
 
 [SVGnest - Open source vector nesting for CNC machines, lasers and plasma cutters](http://svgnest.com/)
 

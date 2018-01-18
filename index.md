@@ -1,13 +1,8 @@
 ---
-title: This is the title for this page on my site
+#
+# You don't need to edit this file, it's empty on purpose.
+# Edit minima's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
 ---
-# This is my site
-
-{% for post in site.posts %}
-<article>
-    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    {{ post.content }}
-</article>
-{% endfor %}
-
-Here is [OpenBoxTest](/OpenBoxTest)
