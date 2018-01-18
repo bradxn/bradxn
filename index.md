@@ -2,4 +2,4 @@
 
 Nothing to see here...
 
-Here is [OpenBoxTest]
+Here is [OpenBoxTest](/OpenBoxTest)
