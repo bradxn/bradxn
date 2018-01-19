@@ -7,6 +7,9 @@
 layout: home
 ---
 
+{% comment %}
 # Tools
 
 [OpenBox](OpenBox)
+
+{% endcomment %}
