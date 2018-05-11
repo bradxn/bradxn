@@ -10,3 +10,7 @@ Here's how I made it:
 ```
 nativefier --name "Glowforge" --icon icon.png --single-instance --fast-quit https://app.glowforge.com/
 ```
+
+Here's the icon file:
+
+!(icon)[/assets/icon.png]
