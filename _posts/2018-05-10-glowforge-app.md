@@ -13,4 +13,4 @@ nativefier --name "Glowforge" --icon icon.png --single-instance --fast-quit http
 
 Here's the icon file:
 
-!(icon)[/assets/icon.png]
+![icon](/assets/icon.png)
