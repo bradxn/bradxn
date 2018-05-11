@@ -14,3 +14,11 @@ nativefier --name "Glowforge" --icon icon.png --single-instance --fast-quit http
 Here's the icon file:
 
 ![icon](/assets/icon.png)
+
+Of course it is also possible to create a Windows app (or even a Linux app) too...
+
+There are probably some other interesting possibilites too. For example:
+
+Rather that going right to app.glowforge.com, the app could maybe load a local page (part o the app itself) which adds a material manager and then starts the noremal glowforge page.
+
+Maybe include a toolbar or menu options that show box and other shape generators in the app?
