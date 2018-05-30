@@ -19,6 +19,8 @@ Of course it is also possible to create a Windows app (or even a Linux app) too.
 
 There are probably some other interesting possibilites too. For example:
 
-Rather that going right to app.glowforge.com, the app could maybe load a local page (part o the app itself) which adds a material manager and then starts the noremal glowforge page.
+I should play with some of the options to disable the browser's debugger and context menu in order to simplify the UI. (I think I want to keep the clipboard commands though.)
+
+Rather that going right to app.glowforge.com, the app could maybe load a local page (part of the app itself) which adds a material manager and then starts the normal glowforge page. (Nativefier also has an "inject" command which can be used to add Javascript code to each page...)
 
 Maybe include a toolbar or menu options that show box and other shape generators in the app?
