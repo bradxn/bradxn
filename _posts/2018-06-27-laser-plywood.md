@@ -1,3 +1,6 @@
+---
+title: Baltic Birch Plywood
+---
 # Baltic Birch Plywood (1/8")
 
 Cut: 120/70 worked great
